@@ -5,13 +5,13 @@ import "firebase/compat/firestore";
 // import {initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAAQA_4XHu6kGVJTPJQH_qLsvBRYIUuuHw",
-  authDomain: "discord-clone-20115.firebaseapp.com",
-  projectId: "discord-clone-20115",
-  storageBucket: "discord-clone-20115.appspot.com",
-  messagingSenderId: "821457066291",
-  appId: "1:821457066291:web:83ff613a2c8cc5bba24646",
-  measurementId: "G-7ZTTM2ZPZF",
+  apiKey: "AIzaSyD_K06yDPVW9HzJehLw7TMx8FZD0gMApkg",
+  authDomain: "chating-1afd6.firebaseapp.com",
+  projectId: "chating-1afd6",
+  storageBucket: "chating-1afd6.appspot.com",
+  messagingSenderId: "15212111169",
+  appId: "1:15212111169:web:65f5a0609d672aa9c96dc0",
+  measurementId: "G-0J68G87DEG"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
